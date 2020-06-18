@@ -1,1 +1,1 @@
-# Udacity-Data-ANalyst-Nanodegree-Projects
+# Udacity-Data-Analyst-Nanodegree-Projects
